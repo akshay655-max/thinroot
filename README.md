@@ -37,8 +37,11 @@ Start the localhost server
 
 ## Deployed link
 
-### Vercel Link
+### Frontend Link
 
 [https://thinroot.vercel.app/login](https://thinroot.vercel.app/login)
 
+### Backend Link
+
+[https://magnificent-hen-flannel-nightgown.cyclic.app/users](https://magnificent-hen-flannel-nightgown.cyclic.app/users)
 
